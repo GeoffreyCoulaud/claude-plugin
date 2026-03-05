@@ -1,6 +1,6 @@
 {
 	"name": "pick-my-brain",
-	"description": "A structured questioning skill that extracts domain knowledge from the user before planning or implementation",
+	"description": "Get plans right on the first try — the agent interviews you one question at a time and won't accept vague answers",
 	"version": "1.0.0",
 	"author": {
 		"name": "Geoffrey Coulaud"

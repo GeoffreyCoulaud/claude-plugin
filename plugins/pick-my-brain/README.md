@@ -1,7 +1,7 @@
 # Pick my brain
 
-A structured questioning skill that extracts domain knowledge from the user
-before planning or implementation
+Get plans right on the first try — the agent interviews you one question at a
+time and won't accept vague answers
 
 ## Installation
 
