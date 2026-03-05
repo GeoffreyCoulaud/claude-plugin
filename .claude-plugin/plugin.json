@@ -1,0 +1,8 @@
+{
+	"name": "bgcp",
+	"description": "Biggie G's personal claude plugin",
+	"version": "1.0.0",
+	"author": {
+		"name": "Geoffrey Coulaud"
+	}
+}
