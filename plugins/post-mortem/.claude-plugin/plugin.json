@@ -1,0 +1,8 @@
+{
+	"name": "post-mortem",
+	"description": "Write blameless post-mortems interactively, one question at a time, with automated review",
+	"version": "1.0.0",
+	"author": {
+		"name": "Geoffrey Coulaud"
+	}
+}

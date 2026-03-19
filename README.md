@@ -16,3 +16,10 @@ Some useful plugins that I use everyday to speed-up Claude Code
   ```sh
   /plugin install pick-my-brain@bgcpm
   ```
+
+- [post-mortem](plugins/post-mortem/) - _Write blameless post-mortems interactively_.
+  The agent interviews you one question at a time and produces a structured markdown document
+
+  ```sh
+  /plugin install post-mortem@bgcpm
+  ```

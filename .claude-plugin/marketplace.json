@@ -11,6 +11,11 @@
 			"name": "pick-my-brain",
 			"source": "./plugins/pick-my-brain",
 			"description": "A structured questioning skill that extracts domain knowledge from the user before planning or implementation"
+		},
+		{
+			"name": "post-mortem",
+			"source": "./plugins/post-mortem",
+			"description": "A structured questioning skill that guides blameless post-mortem writing, producing a markdown document and a short communication message"
 		}
 	]
 }
